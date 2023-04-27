@@ -16,8 +16,8 @@ export const Header = () => {
           </div>
           <div className="w-4/12">
             <div className="flex gap-5 justify-end">
-              <ButtonMenu type="secondary" name="Login" />
-              <ButtonMenu type="primary" name="Book Now" />
+              <ButtonMenu type="primary" name="Login" />
+              <ButtonMenu type="secondary" name="Book Now" />
             </div>
           </div>
         </div>
